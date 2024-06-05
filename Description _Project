@@ -1,0 +1,17 @@
+Drug discovery is a step-by-step process in which new drugs are discovered. In general, 
+pharmaceutical companies follow well Pharmacology and chemistry-based drug discovery 
+approaches, and face various difficulties in finding new drugs. Purpose of drug availability 
+to produce more drugs a short term with low risk in bioinformatics. In fact, there is now a 
+new, different, well-known field such as computer-aid drug design (CADD), Bioinformatics 
+is experiencing a exponential growth of biological data have favored development of 
+primary and secondary databases of nucleic acid sequences, protein sequences, and 
+structures. Some of the most popular databases include ChEMBL, GenBank, SWISS-PROT, 
+PDB, PIR, SCOP, CATH, etc., these information sites are available as a public domain 
+information and hosted on various online servers throughout the earth. We undertook a 
+deep study on Alzheimer’s disease which attacks the single protein. When any new disease 
+attacks the human body, it either inhibits the protein or releases it, which create an 
+imbalance in the body. This imbalance in the body is the reason behind illness and other 
+effects in the body. We created a dataset in which different compounds are compared. 
+First, they are checked on Lipinski Descriptor for the drug likeliness of the compound. Then 
+Padel Descriptors are used to generate molecular fingerprints which are fed to the model. 
+Then the results are predicted.
